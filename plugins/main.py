@@ -30,8 +30,8 @@ Made With 💕 By @ShubhamOfficialR
 """
     ABOUT_TEXT = """
  **🤖 Bot :** Url Uploader\n
- **👲 Developer :** [Tellybots](https://telegram.me/ExclusiveDailyShows)\n
- **👥 Channel :** [Tellybots](https://telegram.me/ExclusiveDailyShows)\n
+ **👲 Developer :** [Click Here](https://telegram.me/ExclusiveDailyShows)\n
+ **👥 Channel :** [Click Here](https://telegram.me/ExclusiveDailyShows)\n
  **❄️ Credits :** Shubham and Anonymous user👽\n
  **🍴 Shubham :** [Click here](https://t.me/ShubhamOfficialR)\n
  **📝 Language :** [Python3](https://python.org)\n
